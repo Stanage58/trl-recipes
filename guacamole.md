@@ -2,4 +2,5 @@
 
 - Avocado
 - Lime
-- Salt
+- MSG
+- Chilli
